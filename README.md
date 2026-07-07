@@ -1,4 +1,4 @@
-MS Excel_Dashboard_Project# Bike Buyers Dashboard (Excel)
+Bike Buyers Dashboard Project (Excel)
 
 Project Overview
 This project is an interactive Bike Buyers Dashboard created in Microsoft Excel. It analyzes customer data to understand the factors that influence bike purchases.
