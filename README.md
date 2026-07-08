@@ -38,10 +38,6 @@ The dataset contains:
 - Commute distance analysis
 - Regional comparison
 
- Files
-- Bike_Buyers_Dashboard.xlsx
-
-
 
 
 
